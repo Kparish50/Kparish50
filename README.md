@@ -1,10 +1,10 @@
 ### Hi there, I'm Kyle Parish!
 
-## I'm a aspriing Junior Web Developer and I'd love to be join your team!
+## I'm an aspiring Junior Web Developer and I'd love to join your team!
 
-- 🔭 I just finsied the OKCoder's Wed Development Bootcamp image will go here
+- 🔭 I just finsied the OKCoder's Web Development Bootcamp
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to to land a junior web dev roll
+- 👯 I’m looking to land a junior web dev role
 - 🥅 2021 (What's left of it) Goals: Make a career change from IT to development
 
 
