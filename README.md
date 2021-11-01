@@ -2,7 +2,7 @@
 
 ## I'm an aspiring Junior Web Developer and I'd love to join your team!
 
-- 🔭 I just finsied the OKCoder's Web Development Bootcamp
+- 🔭 I just finished the OKCoder's Web Development Bootcamp
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to land a junior web dev role
 - 🥅 2021 (What's left of it) Goals: Make a career change from IT to development
