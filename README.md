@@ -4,7 +4,7 @@
 
 - 🔭 I just finished the OKCoder's Web Development Bootcamp
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to land a junior web dev role
+- 👯 I’m looking to land a web development role
 - 🥅 2021 (What's left of it) Goals: Make a career change from IT to development
 
 
