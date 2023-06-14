@@ -4,11 +4,11 @@
 
 - 🔭 I just finished the OKCoder's Web Development Bootcamp
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to land a web development role
-- 🥅 2021 (What's left of it) Goals: Make a career change from IT to development
+- 👯 I’m looking to continue learning React in my current positon!
+- 🥅 2023 Get better with React!
 
 
-### Connect with me:
+<!-- ### Connect with me:
 
 
 
@@ -47,20 +47,20 @@
 
 
 ---
-
+<!-- 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary> --> -->
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
 
-</details>
+</details> -->
 
 
