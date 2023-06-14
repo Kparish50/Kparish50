@@ -1,6 +1,6 @@
 ### Hi there, I'm Kyle Parish!
 
-## I'm an aspiring Junior Web Developer and I'd love to join your team!
+<!-- ## I'm an aspiring Junior Web Developer and I'd love to join your team! -->
 
 - 🔭 I just finished the OKCoder's Web Development Bootcamp
 - 🌱 I’m currently learning everything 🤣
